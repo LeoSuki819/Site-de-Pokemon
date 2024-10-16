@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#principal {
+    background-color: #F8F8FF;
+}
+
+#logo {
+    display: flex;
+    background-color: rgb(235, 232, 232);
+    height: 10vh;
+    border-bottom: solid 3px black;
+    align-items: center;
+}
+
+#titulo {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#coluna {
+    flex-direction: column;
+    border-bottom: solid 3px;
+}
+
+#pokemon1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#gera1 {
+    width: 30%;
+    border: solid 3px black;
+    height: 35vh;
+    align-self: flex-start;
+    margin: 10px;
+}
+
+
+#pokemon2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#gera2 {
+    width: 30%;
+    border: solid 3px black;
+    height: 35vh;
+    align-self: flex-end;
+}
+
+#nome {
+    margin-top: 1%;
+    border: solid 2px black;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
+
+#pokemon3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#gera3 {
+    width: 30%;
+    border: solid 3px black;
+    height: 35vh;
+    align-self: flex-start;
+    margin: 10px;
+}
+
+#pokemon4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#gera4 {
+    width: 30%;
+    border: solid 3px black;
+    height: 35vh;
+    align-self: flex-start;
+    margin: 10px;
+}
+
+#pokemon5 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#gera5 {
+    width: 30%;
+    border: solid 3px black;
+    height: 35vh;
+    align-self: flex-start;
+    margin: 10px;
+}
+
+#pokemon6 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#gera6 {
+    width: 30%;
+    border: solid 3px black;
+    height: 35vh;
+    align-self: flex-start;
+    margin: 10px;
+}
+
+#pokemon7 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#gera7 {
+    width: 30%;
+    border: solid 3px black;
+    height: 35vh;
+    align-self: flex-start;
+    margin: 10px;
+}
+
+#pokemon8 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#gera8 {
+    width: 30%;
+    border: solid 3px black;
+    height: 35vh;
+    align-self: flex-start;
+    margin: 10px;
+}
+
+#pokemon9 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#gera9 {
+    width: 30%;
+    border: solid 3px black;
+    height: 35vh;
+    align-self: flex-start;
+    margin: 10px;
+}
